@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0075725.css",
+    "main.js": "/static/js/main.beb98491.js",
+    "static/media/1.png": "/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/about.jpg": "/static/media/about.2cf11175ff30158b7408.jpg",
+    "static/media/vectGraphic.png": "/static/media/vectGraphic.c776249797acf9529b87.png",
+    "static/media/logo.png": "/static/media/logo.3081c20fa31d8092dacd.png",
+    "static/media/ringOfFire.jpg": "/static/media/ringOfFire.6ec2b9a4592cae195be3.jpg",
+    "static/media/PrinceOfParadise.jpg": "/static/media/PrinceOfParadise.63ffd3aa2f91247216eb.jpg",
+    "index.html": "/index.html",
+    "main.a0075725.css.map": "/static/css/main.a0075725.css.map",
+    "main.beb98491.js.map": "/static/js/main.beb98491.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0075725.css",
+    "static/js/main.beb98491.js"
+  ]
+}
